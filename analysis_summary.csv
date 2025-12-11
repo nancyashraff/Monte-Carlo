@@ -1,0 +1,9 @@
+Analysis,Value
+SPP vs RMSE Correlation,-0.4373
+SPP vs PSNR Correlation,0.5624
+SPP vs Time Correlation,1.0000
+Convergence Exponent,-0.3598
+Convergence R²,0.9669
+Time Scaling Slope,0.044685 s/SPP
+Most Efficient SPP,1
+Quality Plateau SPP,2

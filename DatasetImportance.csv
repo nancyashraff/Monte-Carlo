@@ -1,0 +1,14 @@
+spp,render_time_s,mean_variance,mse,psnr_dB,sampling_method,image_file_exr,image_file_png
+1,3.00E-07,1.2,1.25,28,importance,render_importance_spp1.exr,render_importance_spp1_preview.png
+2,0.0585158,1.2,1.25,28,importance,render_importance_spp2.exr,render_importance_spp2_preview.png
+4,0.1273196,1.5,0.65,32,importance,render_importance_spp4.exr,render_importance_spp4_preview.png
+8,0.3179955,1.7,0.31,35.5,importance,render_importance_spp8.exr,render_importance_spp8_preview.png
+16,0.6675734,1.85,0.16,38.8,importance,render_importance_spp16.exr,render_importance_spp16_preview.png
+32,1.3738424,1.92,0.085,41.4,importance,render_importance_spp32.exr,render_importance_spp32_preview.png
+64,2.9467175,1.95,0.05,43.5,importance,render_importance_spp64.exr,render_importance_spp64_preview.png
+128,5.605256,1.96,0.032,45,importance,render_importance_spp128.exr,render_importance_spp128_preview.png
+256,11.5661503,1.965,0.022,46.2,importance,render_importance_spp256.exr,render_importance_spp256_preview.png
+512,22.809511,1.97,0.017,46.9,importance,render_importance_spp512.exr,render_importance_spp512_preview.png
+1024,45.6782213,1.972,0.0145,47.4,importance,render_importance_spp1024.exr,render_importance_spp1024_preview.png
+2048,91.8099609,1.973,0.013,47.7,importance,render_importance_spp2048.exr,render_importance_spp2048_preview.png
+4096,182.8785823,1.974,0.012,47.9,importance,render_importance_spp4096.exr,render_importance_spp4096_preview.png
